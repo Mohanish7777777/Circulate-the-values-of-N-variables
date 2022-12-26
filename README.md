@@ -22,8 +22,8 @@ Print the coding to get answer.
 ## Program:
 ```python
 #Program to circulate N values.
-#Developed by: Mohammed Faizal J
-#RegisterNumber:22003412
+#Developed by: Mohanish.K
+#RegisterNumber:22002294
 def circulate():
     l=eval(input())
     n=int(input())
